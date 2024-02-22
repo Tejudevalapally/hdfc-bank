@@ -1,2 +1,2 @@
 hello
-This file contains DB rellllated scrpti
+This file contains DB related script
